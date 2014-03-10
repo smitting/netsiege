@@ -13,8 +13,12 @@ Most of this software was written within an hour and then cleaned up later.  Thi
 projects
 ========
 
-NetSiege.Api - this is the .NET library containing the core functionality
-NetSiege.Console - this is a console application mimicing many command line arguments from SEIGE.
-NetSiege.MacApp - this is an incomplete MonoMac GUI application for OSX.
+| Project | Description |
+| ------- | ----------- |
+| NetSiege.Api | this is the .NET library containing the core functionality |
+| NetSiege.Console | this is a console application mimicing many command line arguments from SEIGE. |
+| NetSiege.MacApp | this is an incomplete MonoMac GUI application for OSX. |
+
+
 
 
