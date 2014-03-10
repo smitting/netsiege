@@ -1,0 +1,10 @@
+/Users/scottm/Projects/NetSiege/NetSiege.Api/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/scottm/Projects/NetSiege/NetSiege.Api/bin/Debug/NetSiege.Api.dll.mdb
+/Users/scottm/Projects/NetSiege/NetSiege.Api/bin/Debug/NetSiege.Api.dll
+/Users/scottm/Projects/NetSiege/NetSiege.Api/obj/Debug/NetSiege.Api.dll
+/Users/scottm/Projects/NetSiege/NetSiege.Api/obj/Debug/NetSiege.Api.dll.mdb
+/Users/scottm/Projects/git/NetSiege/netsiege/NetSiege.Api/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/scottm/Projects/git/NetSiege/netsiege/NetSiege.Api/bin/Debug/NetSiege.Api.dll.mdb
+/Users/scottm/Projects/git/NetSiege/netsiege/NetSiege.Api/bin/Debug/NetSiege.Api.dll
+/Users/scottm/Projects/git/NetSiege/netsiege/NetSiege.Api/obj/Debug/NetSiege.Api.dll
+/Users/scottm/Projects/git/NetSiege/netsiege/NetSiege.Api/obj/Debug/NetSiege.Api.dll.mdb

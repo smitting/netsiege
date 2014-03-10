@@ -1,0 +1,7 @@
+/Users/scottm/Projects/git/NetSiege/netsiege/NetSiege.Console/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/scottm/Projects/git/NetSiege/netsiege/NetSiege.Console/bin/Debug/NetSiege.Console.exe.mdb
+/Users/scottm/Projects/git/NetSiege/netsiege/NetSiege.Console/bin/Debug/NetSiege.Console.exe
+/Users/scottm/Projects/git/NetSiege/netsiege/NetSiege.Console/obj/x86/Debug/NetSiege.Console.exe
+/Users/scottm/Projects/git/NetSiege/netsiege/NetSiege.Console/obj/x86/Debug/NetSiege.Console.exe.mdb
+/Users/scottm/Projects/git/NetSiege/netsiege/NetSiege.Console/bin/Debug/NetSiege.Api.dll
+/Users/scottm/Projects/git/NetSiege/netsiege/NetSiege.Console/bin/Debug/NetSiege.Api.dll.mdb
